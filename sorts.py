@@ -1,4 +1,4 @@
-import random
+
 
 def selectionSort(list):
 	for fill in range(len(list) - 1, 0, -1):
